@@ -13,7 +13,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/soupsieve-2.3.2.post1.dist-info" />
       <excludeFolder url="file://$MODULE_DIR$/venv/Include" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (TestFramework)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (Test Project)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
